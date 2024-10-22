@@ -17,12 +17,6 @@ Visit [kubenine.com](https://www.kubenine.com/) to learn more about how you can 
 
 ---
 
-## Code of Conduct 📜
-
-KubeNine projects adopt the [KubeNine Open Source Code of Conduct](#). We believe in creating a welcoming and inclusive environment for everyone. Be respectful and mindful of our community guidelines. For more information, visit our [Code of Conduct FAQ](#).
-
----
-
 ## Open-Source Opportunities 🌟
 
 We invite you to:
