@@ -10,7 +10,7 @@ Right now, open communities are building amazing software together. At KubeNine,
 
 - 🔍 [Explore KubeNine's featured projects](#) 
 - 💬 [Join our open-source community](#)
-- 🛠️ [Contribute to our repositories](#)
+- 🛠️ [Contribute to our repositories](https://github.com/kubenine/aws-elasticache-alarms.git)
 - ❓ Have questions? Use [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to ask or share feedback.
 
 Visit [kubenine.com](https://www.kubenine.com/) to learn more about how you can contribute and collaborate with us! 🌐
