@@ -1,6 +1,6 @@
 # Welcome to KubeNine Open Source 🌍✨
 
-![Open Source at KubeNine](https://github.com/kubenine/kubenine/blob/master/5553067.png)
+![Open Source at KubeNine](5553067.png)
 
 At **KubeNine Consulting**, we believe in the power of open-source collaboration. Our mission is to foster a thriving community where developers, innovators, and tech enthusiasts can contribute to building cutting-edge solutions together. Whether you're a seasoned developer or just starting, there's a place for you here. 💡👩‍💻👨‍💻
 
